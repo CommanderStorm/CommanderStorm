@@ -7,16 +7,7 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 
 ---
 
-## 🧭 Areas of Expertise: What I do
-
-* 🦀 **Rust Backend Engineering** — Performance-critical services, async systems, clean APIs
-* 🗺️ **Geospatial & Mapping** — Vector tiles, MapLibre ecosystem, spatial data pipelines, PostGIS
-* 🔧 **Open-Source Maintainer** — Review, release management, CI/CD, contributor experience
-* 🎓 **Academic & Public-Sector OSS Advocacy** — Bridging university research and active open projects
-
----
-
-## 🚀 Impactful Projects: Selected Work
+#### 🚀 Selected Work
 
 ### 🗺️ Martin – MapLibre Tileserver
 **Maintainer** · Rust / PostGIS / React  
@@ -36,8 +27,6 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 * Core Maintainer since `v1.23.0`, shipped **$28$ releases** up to `v2.0.2`
 * Reviewed **$400+$ PRs** and triaged **$\approx 1700$ issues**
 
----
-
 ### 🎓 OpenSource @ TUM (NavigaTUM / GoCast)
 **Co-founder**  
 [https://github.com/TUM-Dev](https://github.com/TUM-Dev)
@@ -45,30 +34,11 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 * Co-founded OpenSource @ TUM e.V., growing from 1 $\rightarrow$ **$20+$ active student contributors**
 * Contributed to these flagship products:
     * **TUM-Campus** – campus-app for TUM solving everything from finding a room to your grades
-    * **NavigaTUM** – campus-wide room finder for $\approx 50,000$ users
+    * **NavigaTUM** – campus-wide room finder for $\approx 60,000$ users
     * **GoCast** – university livestreaming & event broadcasting tool
 * Secured sponsorship and organized workshops & onboarding for student developers in the TUM ecosystem
 
----
-
-## 🌍 Leadership & Governance
-
-* 🧩 **Governing Board Member, MapLibre**
-    * Representing academic & public-sector user interests.
-    * Active contributor to the **Technical Steering Council (TSC)**.
-    * Speaker at FOSS4G, FOSSGIS, FOSDEM, HERE GIS Day, ...
-
----
-
-## 🛠️ Core Technology Stack
-
-* **Backend & Languages:** Rust, Go, C++, TypeScript, Python
-* **Data & Infrastructure:** Docker, Kubernetes, PostGIS, PostgreSQL, gRPC, Prometheus, GitHub Actions
-* **Frontend:** Vue.js, React
-
----
-
-## 📫 Let’s Connect
-
-* GitHub: [https://github.com/CommanderStorm](https://github.com/CommanderStorm)  
-* LinkedIn: [https://linkedin.com/in/frankelsinga](https://linkedin.com/in/frankelsinga)
+### 🧩 Governing Board Member, MapLibre
+* Bridging academic & public-sector users and the wider ecosystem
+* Active contributor to the **Technical Steering Council (TSC)**.
+* Speaker at FOSS4G, FOSSGIS, FOSDEM, HERE GIS Day, ...
