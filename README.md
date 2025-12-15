@@ -16,7 +16,7 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 * Maintainer since `v0.15.0`, leading the project to **`v1.0.0`** and beyond (13+ major/minor releases)
 * Shipped major features: font & sprite caching, ETags, SDF icons, style hosting
 * Built a React-based UI for tile exploration and debugging
-* **Boosted contributor activity** (double-digit authors) and **improved CI efficiency** by $\approx 40\%$
+* **Boosted contributor activity** (double-digit authors) and **improved CI efficiency** by ~40%
 
 ---
 
@@ -25,7 +25,7 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 [https://github.com/louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 * Core Maintainer since `v1.23.0`, shipped **$28$ releases** up to `v2.0.2`
-* Reviewed **$400+$ PRs** and triaged **$\approx 1700$ issues**
+* Reviewed **$400+$ PRs** and triaged **~1700 issues**
 
 ### 🎓 OpenSource @ TUM (NavigaTUM / GoCast)
 **Co-founder**  
@@ -34,7 +34,7 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 * Co-founded OpenSource @ TUM e.V., growing from 1 $\rightarrow$ **$20+$ active student contributors**
 * Contributed to these flagship products:
     * **TUM-Campus** – campus-app for TUM solving everything from finding a room to your grades
-    * **NavigaTUM** – campus-wide room finder for $\approx 60,000$ users
+    * **NavigaTUM** – campus-wide room finder for ~60,000 users
     * **GoCast** – university livestreaming & event broadcasting tool
 * Secured sponsorship and organized workshops & onboarding for student developers in the TUM ecosystem
 
