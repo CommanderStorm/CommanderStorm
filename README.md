@@ -7,9 +7,9 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 
 ---
 
-#### 🚀 Selected Work
+## Selected Work
 
-### 🗺️ Martin – MapLibre Tileserver
+### Martin – MapLibre Tileserver
 **Maintainer** · Rust / PostGIS / React  
 [https://github.com/maplibre/martin](https://github.com/maplibre/martin)
 
@@ -20,14 +20,14 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 
 ---
 
-### ⏱️ Uptime Kuma
+### Uptime Kuma
 **Maintainer** · Vue.js / JavaScript  
 [https://github.com/louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 * Core Maintainer since `v1.23.0`, shipped **$28$ releases** up to `v2.0.2`
 * Reviewed **$400+$ PRs** and triaged **~1700 issues**
 
-### 🎓 OpenSource @ TUM (NavigaTUM / GoCast)
+### OpenSource @ TUM (NavigaTUM / GoCast)
 **Co-founder**  
 [https://github.com/TUM-Dev](https://github.com/TUM-Dev)
 
@@ -38,7 +38,7 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
     * **GoCast** – university livestreaming & event broadcasting tool
 * Secured sponsorship and organized workshops & onboarding for student developers in the TUM ecosystem
 
-### 🧩 Governing Board Member, MapLibre
+### Governing Board Member, MapLibre
 * Bridging academic & public-sector users and the wider ecosystem
 * Active contributor to the **Technical Steering Council (TSC)**.
 * Speaker at FOSS4G, FOSSGIS, FOSDEM, HERE GIS Day, ...
