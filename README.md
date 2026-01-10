@@ -18,8 +18,6 @@ I enjoy taking projects from “rough prototype” to **reliable, well-documente
 * Built a React-based UI for tile exploration and debugging
 * **Boosted contributor activity** (double-digit authors) and **improved CI efficiency** by ~40%
 
----
-
 ### Uptime Kuma
 **Maintainer** · Vue.js / JavaScript  
 [https://github.com/louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
