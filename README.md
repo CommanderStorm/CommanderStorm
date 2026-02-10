@@ -5,6 +5,7 @@ I’m a software engineer and open-source maintainer based in Munich, Germany, c
 My work focuses on **high-performance backend systems**, **developer tooling**, and **FOSS-based infrastructure**.
 I enjoy taking projects from “rough prototype” to **reliable, well-documented software with an active contributor community**.
 
-I am maintainer of **Martin (MapLibre Tileserver)** and **Uptime Kuma**.  
+
+Governing Board Member, @maplibre.
+I am maintainer of [`maplibre/martin`](https://github.com/maplibre/martin), [`louislam/uptime-kuma`](https://github.com/louislam/uptime-kuma) and [`tum-dev/navigatum`](https://github.com/tum-dev/navigatum).  
 Co-founder of **OpenSource @ TUM e.V.** (a student club building university infrastructure such as a livestreaming system, roomfinder and an app).  
-Governing Board Member, **MapLibre**.
